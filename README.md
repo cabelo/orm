@@ -20,3 +20,5 @@ Video and remote image processing, using inference, computer vision techniques a
 ONEAPI (openVINO embeded and for fast decode video )
 
 **In the future: the project will use Realsense
+
+[![image](https://github.com/cabelo/orm/assets/675645/878a9202-45ef-4747-adc1-246aab3fd859)](https://www.youtube.com/watch?v=ZLmpsd-pR54)
