@@ -17,7 +17,7 @@ With convolutional neural networks (oneAPI, openVINO and openCV) we can estimate
 Video and remote image processing, using inference, computer vision techniques and deep learning.
 
 ## Technologies Used
-ONEAPI (openVINO embeded and for fast decode video )
+openVINO
 
 **In the future: the project will use Realsense
 
